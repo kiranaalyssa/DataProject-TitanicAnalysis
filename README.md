@@ -1,7 +1,7 @@
 # Titanic Disaster Analysis Project
 **🚢 About This Project:**
 
-This project was created to complete the Data Science course from Dibimbing. It analyzes data from the Titanic disaster to find valuable insights about passenger survival patterns and other influencing factors.
+This project was created to complete the Data Science course (*Digital Skill Fair 31.0*) from Dibimbing. It analyzes data from the Titanic disaster to find valuable insights about passenger survival patterns and other influencing factors.
 
 **🌐 Project Goal:**
 
